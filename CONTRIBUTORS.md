@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Suraj Jha](https://github.com/btwsuraj)
+- Place: Chennai, Tamil Nadu, India
+- Bio: Student at SRM Institute of Science And Technology
+- GitHub: [btwsuraj](https://github.com/btwsuraj)
